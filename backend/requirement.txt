@@ -1,6 +1,7 @@
 fastapi 
 uvicorn[standard]
-motor
+pymongo[srv]
 httpx
 apscheduler
 python-dotenv
+uv
