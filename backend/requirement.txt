@@ -5,3 +5,4 @@ httpx
 apscheduler
 python-dotenv
 uv
+openmeteo-requests
