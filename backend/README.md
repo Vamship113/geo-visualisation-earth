@@ -4,7 +4,7 @@ This backend acts as a data aggregotor and cache layer for weather, sallelite, a
 ## Core External APIS used
 1. Weather https://open-meteo.com  
 2. Sunrise and Sunset  https://sunrise-sunset.org/api
-3. Air Quality https://docs.openaq.org/  or https://aqicn.org/api/
+3. Air Quality https://docs.openaq.org/  or https://aqicn.org/json-api/doc/
 4. Satellite image 
 5. Natural Disasters https://eonet.gsfc.nasa.gov/docs/v3 
 6. Reverse Geocoding / City Names https://nominatim.org/release-docs/develop/api/Search/ optional for now. It helper if you want to display city names or region metadata
